@@ -1,6 +1,6 @@
 # Introduction
 
-Hi, I'm Sebastian, I'm 13 years old and I've just modified the official windows 11 iso image, to provide better resource management, I won't be responsible for any data loss, etc.
+Hi, I'm Sebastian, I'm 13 years old and I've just _modified_ the **official windows 11 iso image**, to provide better resource management, I won't be ***responsible*** for any data loss, etc.
 
 # Applications/drivers that have been removed
 
